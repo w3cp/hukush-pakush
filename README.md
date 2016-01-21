@@ -1,2 +1,1 @@
-# hukush-pakush
-Python codes : hukush-pakush.com
+Python codes : http://hukush-pakush.com
