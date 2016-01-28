@@ -2,7 +2,7 @@ class Calculator:
     def set( self, first, second ):
         self.a = first
         self.b = second
-
+    
     def add( self ):
         return self.a + self.b
 
